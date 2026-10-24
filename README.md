@@ -13,7 +13,7 @@
 4. Why do you classify the unrounded BMI and round only its displayed value?
    - So that the data can be more accurate.
 
-5.What does strcmp return for equal text? Why is == not the correct comparison for character-array contents?
+5. What does strcmp return for equal text? Why is == not the correct comparison for character-array contents?
     - strcmp returns 0 for equal text.
 
 6. How do you make each mixture work in either input order and handle two identical primary colors?
